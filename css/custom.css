@@ -1,0 +1,38 @@
+/* ESTILOS PROPIOS */
+
+body{
+	font-family: Arial, Verdana, Segoe, sans-serif;
+}
+.logocust{
+	margin: 15px;
+}
+.empres{
+	display: inline-block;
+}
+.slidercust{
+	height: 300px;
+}
+
+.separador{
+	margin-top: 20px;
+}
+
+.pielog{
+	margin: auto;
+	height: 30px;
+	opacity: 0.7;
+	margin-bottom: 20px;
+}
+
+.pielog:hover{
+	opacity: 1;
+}
+
+.linea{
+	margin-top: 20px;
+	border-top: solid 2px #ECECEC;
+}
+.thumbnailcust{
+	height: 150px;
+	background-color: blue;
+}
