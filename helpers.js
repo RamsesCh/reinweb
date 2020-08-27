@@ -1,3 +1,3 @@
 function hello(){
-    alert("hola mundo");
+    alert("hola desde este nuevo sitio");
 }
